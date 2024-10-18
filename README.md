@@ -9,5 +9,5 @@ The implementation is explained in this pdf: [ReadMe.pdf](https://github.com/Vic
 
 ## Contributors of the project :
 * [Zannis Vidalis](https://github.com/ZannisVidalis)
-* [Theodosia Papadima](https://github.com/sulpap)
+* [Theodosia Papadima](https://github.com/siappdm)
 * [Vicky Christofilopoulou]( https://github.com/Vicky-Christofilopoulou )
