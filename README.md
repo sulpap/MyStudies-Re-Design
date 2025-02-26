@@ -3,7 +3,7 @@ The implementation of the redesign of MyStudies (mystudies.uoa.gr), a website fo
 
 The evaluation of the original website and the implementation of the new one have been completed taking into account Nielsen's 10 usability principles.
 
-The project was built using **React v20.10.0** and is explained in this pdf: [ReadMe.pdf](https://github.com/Vicky-Christofilopoulou/MyStudies-re-design/files/14550704/ReadMe.pdf)
+The project was built using **React with Node.js v20.10.0** and is explained in this pdf: [ReadMe.pdf](https://github.com/Vicky-Christofilopoulou/MyStudies-re-design/files/14550704/ReadMe.pdf)
 
 [Video presentation](https://www.youtube.com/watch?v=07LpHRdP9I8&list=PLXKopXHbhib9sAlftkMec8kKnKwxgpynv&index=18)
 
